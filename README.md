@@ -1,6 +1,6 @@
 # 🌿 AmrutVeda – Ayurvedic Wellness App (UI/UX Design)
 
-![UI/UX Design](  <img width="892" height="720" alt="Screenshot 2025-11-19 at 2 21 15 PM" src="https://github.com/user-attachments/assets/01087db5-542b-4339-8c3b-6ec1477f8d21" />
+ <img width="892" height="720" alt="Screenshot 2025-11-19 at 2 21 15 PM" src="https://github.com/user-attachments/assets/01087db5-542b-4339-8c3b-6ec1477f8d21" />
 
 
 **AmrutVeda** is a **modern Ayurvedic wellness app** designed to promote holistic health through personalized analysis, remedies, yoga routines, and herbal product recommendations.  
